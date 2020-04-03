@@ -59,3 +59,4 @@ extra:
   recipe-maintainers:
     - oblute
     - rluria14
+    - conda-forge/terraform
